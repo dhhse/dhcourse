@@ -11,4 +11,4 @@
 В этой части мы исследуем методы учимся их применять. Если получается интересное -- это хорошо, но цель в освоении методов.
 
 ## Введение: а что мы вообще можем?
-![distant_reading_map](pics/distant_reading_map.jpg)
+![distant_reading_map](pics/distant_reading_map.jpeg)
