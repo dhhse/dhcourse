@@ -83,17 +83,24 @@
 
 Авторский сигнал ВСЕ ЕЩЕ устойчив!
 
+### В этом месте очень хочется попытаться осмыслить: ЧТО же мы все-таки измеряем таким образом?
+
+"I think we should lock linguists and philologists in a room and not let them leave it until they explain what is happening" (Ян Рыбицкий на одном из стилометрических докладов во время конференции DH 2019 в Утрехте)
+
+
 ### Задание: сломайте этот тест!
 
 Выставить такие Features, чтобы авторы кластеризовались с ошибкой (изменение языка с Other на English не считается, это слишком тупо).
 
-# Даня, хватит тестов! Давай что-нибудь настоящее постилометрим!
+
+
+# Окей, Даня, хватит тестов! Давай что-нибудь настоящее постилометрим!
 
 
 
 ## 3. Сурков и Дубовицкий (боевое применение  Stylo)
 
-[Тексты -- по 2](stylometry_texts/4_surkov.zip)
+[Тексты -- по 2](stylometry_texts/3_surkov.zip)
 
 ![surkov small](pics/surkov_2_each.png)
 
@@ -105,6 +112,8 @@
 
 ![surkov](pics/surkov_network.png)
 
+Менее знакомые, но чувствующие в себе силы могут воспользоваться [моей общей инструкцией](https://docs.google.com/document/d/1w3hWna5_BF60jxLf7Tn_sv6GyOCkYJ9ad4kQFU9mWLg/edit?usp=sharing) по визуализации CSV-таблицы с ребрами при помощи Gephi (вам будет не очень релевантна часть про размеры узлов)
+
 
 ### Задание: улучшить эксперимент с Сурковым
 
@@ -114,27 +123,40 @@
 
 ## 4. Шолохов и компания (боевое применение  Stylo)
 
-[Тексты](stylometry_texts/3_sholokhov_and_others.zip)
+[Тексты: Шолохов, Крюков, Краснушкин](stylometry_texts/sholokhov_krasnuchkin_krykov.zip)
 
-Попробуйте 100 MFW
-![lukdon](pics/lukdon_ca.png)
+### Попробуйте 100 MFW
+
+![pic](pics/sholokhov_small_100.png)
 
 
 Попробуйте 200 MFW
 
-![lukdon](pics/lukdon_ca.png)
+![lukdon](pics/sholokhov_small_200.png)
 
 Попробуйте 300 MFW
 
-![lukdon](pics/lukdon_ca.png)
+![lukdon](pics/sholokhov_small_300.png)
 
 Попробуйте Bootstrap Consensus Tree 100 -- 300 с шагом 10
-![lukdon](pics/lukdon_ca.png)
+![pic](pics/sholokhov_small_bootstrap.png)
 
-А вот статья о том же: 
+Сетевая визуализация тех же стилометрических близостей:
+
+![pic](pics/sholokhov_small_network.png)
+
+[Тексты: Шолохов, Крюков, Краснушкин + Серафимович, Платонов](stylometry_texts/sholokhov_krasnuchkin_krykov.zip)
+
+100 - 300 MFW с шагом 10:
+
+Сеть близости:
+
+## Дальше пробуйте сами :)
+
+...
+
+А вот и полноценная научная статья о том, что думает Delta про авторство Шолохова: 
 [Н.П. Великанова, Б.В. Орехов. Цифровая текстология: атрибуция текста на примере романа М.А. Шолохова «Тихий Дон»](http://nevmenandr.net/personalia/QuietDon.pdf)
-
-
 
 
 ## [Все тексты для практики, использованные выше (ссылка на папку)](stylometry_texts)
