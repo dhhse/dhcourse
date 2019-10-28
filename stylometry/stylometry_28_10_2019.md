@@ -5,7 +5,8 @@
 [Тексты](stylometry_texts/0_Лукьяненко%20Донцова.zip)
 
 Получите такое 
-![lukdon](pics/lukdon_ca.png)
+
+![lukdon](pics/lukdon_ca.png =250x)
 
 
 ## 1. Пушкин, Лермонтов, Гоголь (тест)
