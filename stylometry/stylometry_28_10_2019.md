@@ -2,6 +2,9 @@
 
 (на всякий случай: инструкция по установке stylo [тут](https://docs.google.com/document/d/1WyUeY6Qi7rlNRg73Bmo0FSPH3dwGjSxzS1SAi0D3uqw/edit?usp=sharing), по началу работы со stylo — [тут](https://docs.google.com/document/d/19vcol7KV80U4LnzpUVgi8DiTOmEUg6BOqp-vSddCUOo/edit?usp=sharing))
 
+[Новый оф.сайт Stylo](https://computationalstylistics.github.io/)
+[STYLO_HOWTO](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjb21wdXRhdGlvbmFsc3R5bGlzdGljc3xneDpmM2U3OGUzZTM2YjkyYzM)
+
 ## 0. Лукьяненко versus Донцова (тестируем Stylo)
 
 [Тексты](stylometry_texts/0_Лукьяненко%20Донцова.zip)
