@@ -1,5 +1,7 @@
 # Попрактикуемся в стилометрии
 
+(на всякий случай: инструкция по установке stylo [тут](https://docs.google.com/document/d/1WyUeY6Qi7rlNRg73Bmo0FSPH3dwGjSxzS1SAi0D3uqw/edit?usp=sharing), по началу работы со stylo — [тут](https://docs.google.com/document/d/19vcol7KV80U4LnzpUVgi8DiTOmEUg6BOqp-vSddCUOo/edit?usp=sharing))
+
 ## 0. Лукьяненко versus Донцова (тестируем Stylo)
 
 [Тексты](stylometry_texts/0_Лукьяненко%20Донцова.zip)
