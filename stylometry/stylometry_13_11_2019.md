@@ -96,4 +96,4 @@ oppose(corpus.lang=“Other”)
 
 # 3. Oppose
 
-Данные 
+[Данные](stylometry_texts/oppose.zip)
