@@ -78,7 +78,7 @@
 
 [Данные](stylometry_texts/rollingclassify.zip) 
 
-У rolling.classify() GUI вообще нет! 
+У rolling.classify() интерфейса (GUI) вообще нет! 
 
 Команда, вариант 1> rolling.classify(slice.size=5000, slice.overlap=4500, corpus.lang = "Other")
 

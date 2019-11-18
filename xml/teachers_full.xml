@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+  <person gender="F" age="27" birthdate="1992-03-12">
+    <firstname>Нина</firstname>
+    <patronym>Евгеньевна</patronym>
+    <surname>Сахарова</surname>
+  </person>
+  <person gender="M" age="37" birthdate="1982-09-30">
+    <firstname>Борис</firstname>
+    <patronym>Валерьевич</patronym>
+    <surname>Орехов</surname>
+  </person>
+  <person gender="M" age="29" birthdate="1989-12-10">
+    <firstname>Даниил</firstname>
+    <patronym>Андреевич</patronym>
+    <surname>Скоринкин</surname>
+  </person>
+  <person gender="M" age="42" birthdate="1977-07-12">
+    <firstname>Франк</firstname>
+    <patronym>Куртович</patronym>
+    <surname>Фишер</surname>
+  </person>
+  <person gender="M" age="29" birthdate="1990-08-05">
+    <firstname>Георгий</firstname>
+    <patronym>Алексеевич</patronym>
+    <surname>Мороз</surname>
+  </person>
+  <person gender="F" age="46" birthdate="1973-05-07">
+    <firstname>Ольга</firstname>
+    <patronym>Николаевна</patronym>
+    <surname>Ляшевская</surname>
+  </person>
+</teachers>
