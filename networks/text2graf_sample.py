@@ -50,7 +50,7 @@ def obhodchik_abzacev (text_s_mnojestvom_abzacev):
     print ('Все связи в документе: ', spisok_vseh_svyazey)    
     return spisok_vseh_svyazey
 
-## вариант записи в граф без весов (как было на паре 05.02)
+## вариант записи в граф без весов 
 def zapis_v_graf (spisok_vseh_svyazey):
     """ Получаем на вход список связей в виде пар
     превращаем его в множество пар (убиваем дубликаты)
