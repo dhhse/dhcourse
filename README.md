@@ -5,9 +5,10 @@
 ## До коронавируса:
 
 * Введение 
-  * [https://danilsko.github.io/slides/dhmasters/intro.html](презентация) 
+  * [презентация](https://danilsko.github.io/slides/dhmasters/intro.html) 
 * Культуромика 
   * Презентация
+  * Ссылки на статьи
 * Distant Reading
 * Стилометрия
 * Структурированная разметка текста; XML и TEI
