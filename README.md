@@ -6,9 +6,10 @@
 
 * Введение 
   * [презентация](https://danilsko.github.io/slides/dhmasters/intro.html) 
-* [Рассказы о проектах](https://docs.google.com/spreadsheets/d/1S4oj2aEjFPYp_fYZQHrDlX3ZkgJYvPDvxJFeJ6aYi70/edit?usp=sharing)
+* Рассказы о проектах
+  * [Табличка](https://docs.google.com/spreadsheets/d/1S4oj2aEjFPYp_fYZQHrDlX3ZkgJYvPDvxJFeJ6aYi70/edit?usp=sharing)
 * Культуромика 
-  * [Презентация](culturomics_MA_DH.pdf)
+  * [Презентация](Culturomics_MA_DH.pdf)
   * [Ссылки на статьи](culturomics_links.md)
 * Distant Reading
   * [Презентация](https://danilsko.github.io/slides/dhmasters/distantreading)
@@ -20,18 +21,20 @@
 * Структурированная разметка текста; XML и TEI
   * [Презентация 1](https://docs.google.com/presentation/d/1mYpnBKQ1eP9Txn-YlOaz2KhUOoVM9IcFu-aPzALz860/edit)
   * [Презентация 2](https://docs.google.com/presentation/d/1SpxXLPXHedEEwFk9OivDim6NiDV84Q6G1EIgZa1LQgk/edit)
-  * [Видео Анастастии Александровны]()
-  * [Видео Дани]()
+  * [Видео Анастастии Александровны и Дани про TEI и XML](https://www.youtube.com/playlist?list=PL_KRBkoNptAVhODLNdHabJ8RapY5Td_8d) 
 * Сетевой анализ
-  * [Презентация 1]()
-  * [Презентация 2]()
-* Стиховедение и Digital Humanities
-  * [Презентация]()
-* 3D-моделирование с Надеждой Поврозник
+  * [Презентация 1](https://danilsko.github.io/slides/networks_dhmasters.html)
+  * [Презентация 2](https://danilsko.github.io/slides/networks_reminder.html#/)
+  * [Упрощенный пример кода для превращения текста в сеть](https://github.com/dhhse/dhcourse/blob/master/networks/text2graf_sample.py)
+  * [Видеокурс Дани примерно про то же, что на слайдах] (https://www.youtube.com/watch?v=eonQ2vzDKEA&list=PL_KRBkoNptAUUhQApck9yW1V3qdcA-KQk&index=3&t=10s)
+  * [Видео Дани про форматы хранения сетей](https://youtu.be/Cic5NT4szdQ)
+* Стиховедение и Digital Humanities с Борисом Валерьевичем Ореховым
+  * [Презентация](https://cloud.mail.ru/public/3pDC/7MCwJwCY8)
+* 3D-моделирование с Надеждой Георгиевной Поврозник
   * [Видео](https://drive.google.com/drive/folders/1Y0wpebp7MIQ4V3xV9Oq8l84uma31wuhE)
-* Цифровые музеи с Владимиром Определеновым
+* Цифровые музеи с Владимиром Викторовичем Определеновым
 * GIS
-  * [Инструкция от Романа Гончарова]()
+  * [Инструкция от Романа Гончарова и Варвары Молодцовой](https://docs.google.com/document/d/170If4w9U71HhcU-iJvqqEaAsZwSNxoPI7FJyzCca20E/edit)
 
 ## После коронавируса:
 
