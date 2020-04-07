@@ -45,3 +45,5 @@
 * Тематическое моделирование
 * NER/Fact Extraction и его применение в Digital Humanities
 * Попытки автоматизированного анализа сюжета: возможен ли авто-Пропп и для каких жанров?
+
+### [Ссылка на команду курса в MS Teams](https://teams.microsoft.com/l/team/19%3a518f054c2f2e42dd8dc64df8f8ce0556%40thread.tacv2/conversations?groupId=4587aa95-4885-4aa8-9c72-ae3b13af8aef&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)
