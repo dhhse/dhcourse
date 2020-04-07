@@ -26,7 +26,7 @@
   * [Презентация 1](https://danilsko.github.io/slides/networks_dhmasters.html)
   * [Презентация 2](https://danilsko.github.io/slides/networks_reminder.html#/)
   * [Упрощенный пример кода для превращения текста в сеть](https://github.com/dhhse/dhcourse/blob/master/networks/text2graf_sample.py)
-  * [Видеокурс Дани примерно про то же, что на слайдах] (https://www.youtube.com/watch?v=eonQ2vzDKEA&list=PL_KRBkoNptAUUhQApck9yW1V3qdcA-KQk&index=3&t=10s)
+  * [Видеокурс Дани примерно про то же, что на слайдах](https://www.youtube.com/watch?v=eonQ2vzDKEA&list=PL_KRBkoNptAUUhQApck9yW1V3qdcA-KQk&index=3&t=10s)
   * [Видео Дани про форматы хранения сетей](https://youtu.be/Cic5NT4szdQ)
 * Стиховедение и Digital Humanities с Борисом Валерьевичем Ореховым
   * [Презентация](https://cloud.mail.ru/public/3pDC/7MCwJwCY8)
