@@ -5,7 +5,7 @@
 ## До коронавируса:
 
 * Введение 
-  * [презентация](https://danilsko.github.io/slides/dhmasters/intro.html) 
+  * [Презентация](https://danilsko.github.io/slides/dhmasters/intro.html) 
 * Рассказы о проектах
   * [Табличка](https://docs.google.com/spreadsheets/d/1S4oj2aEjFPYp_fYZQHrDlX3ZkgJYvPDvxJFeJ6aYi70/edit?usp=sharing)
 * Культуромика 
