@@ -37,10 +37,9 @@
   * [Инструкция от Романа Гончарова и Варвары Молодцовой](https://docs.google.com/document/d/170If4w9U71HhcU-iJvqqEaAsZwSNxoPI7FJyzCca20E/edit)
 
 ## После коронавируса:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * Автоматическое извлечение тематики текста. Ч.I. Выделение ключевых слов (08.04.2020)
   * Видео 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   * Тут будет ссылка на материалы для практики
 * Автоматическое извлечение тематики текста. Тематическое моделирование
 * Коллокации (или "n-граммы на стероидах")
