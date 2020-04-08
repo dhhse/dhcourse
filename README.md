@@ -39,7 +39,8 @@
 ## После коронавируса:
 
 * Автоматическое извлечение тематики текста. Ч.I. Выделение ключевых слов (08.04.2020)
-  * Видео <iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  * Видео 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   * Тут будет ссылка на материалы для практики
 * Автоматическое извлечение тематики текста. Тематическое моделирование
 * Коллокации (или "n-граммы на стероидах")
