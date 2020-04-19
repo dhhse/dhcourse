@@ -1,0 +1,101 @@
+RT запустил масштабный англоязычный проект в Twitter, посвящённый юбилею революции в России. Как развивались события 1917 года, можно узнать, подписавшись на микроблог Николая II или Владимира Ленина. В режиме реального времени RT публикует сообщения, фотографии и видеозаписи тех лет, оживляя историю в социальной сети. Задача проекта — показать иностранным читателям, что происходило в России 100 лет назад.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-58b3ee21c46188392a8b456a_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.02/58b3ee21c46188392a8b456a.mp4", image:       "https://cdni.rt.com/russian/images/2017.02/article/58b3eef6c36188d8348b4792.jpg", // stretching: 'fill',
+ // title:       "\u0420\u0435\u0442\u0432\u0438\u0442\x20\u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u0438\x3A\x20\u043F\u043E\u0434\u043F\u0438\u0441\u0430\u0442\u044C\u0441\u044F\x20\u043D\u0430\x20\u041B\u0435\u043D\u0438\u043D\u0430,\x20\u043E\u0442\u043F\u0438\u0441\u0430\u0442\u044C\u0441\u044F\x20\u043E\u0442\x20\u041D\u0438\u043A\u043E\u043B\u0430\u044F\x20II\x20\x28\x231917LIVE\x20\u043F\u0440\u043E\u043C\u043E\x29\x20", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/russia/article/362616-revolyuciya-istoriya-rossiya-proekt/video/58b3ee21c46188392a8b456a" frameborder="0" allowfullscreen/></iframe></div>'), link: "/russia/article/362616-revolyuciya-istoriya-rossiya-proekt" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-58b3ee21c46188392a8b456a_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Ретвит революции: подписаться на Ленина, отписаться от Николая II (#1917LIVE промо)  
+Глазами очевидцев
+Каждый участник исторического проекта имеет собственный аккаунт, поэтому пользователи могут следить не только за основными политфигурами России, но и за сообщениями немецкого кайзера, ведущего наступление на союзников.
+Our U-boats have sunk over 60 ships in the Atlantic and the Mediterranean in a matter of just 5 days 
+#1917LIVE
+pic.twitter.com/ecgP0ukorD
+— Kaiser Germany (@Kaiser_1917) 
+February 5, 2017
+Свой аккаунт есть и у императрицы Александры Фёдоровны, которая порицает убийц Григория Распутина и призывает своего супруга к более жёстким действиям.
+Show them you’re the Sovereign, that your will must be done. You’ve spoilt them with your kindness, they’ve forgotten submission 
+#1917LIVE
+— Empress Aleksandra (@EmpressAlix1917) 
+February 11, 2017
+Узнать мнение офицерского состава о событиях можно на страничке штабс-капитана русской армии Василия Цейтлина.
+Why has the military amassed so many troops in 
+#Petrograd
+? Do they really need all these armed men in the capital? 
+#1917LIVE
+pic.twitter.com/0Y2zbzd32o
+— Captain Zeitlin (@CaptZeitlin1917) 
+February 24, 2017
+«Революция в реальном времени»
+Проект #1917LIVE уже получил широкий отклик в социальных сетях. Необычную историческую ретроспективу оценили пользователи Twitter.
+«Отличный материал по русской революции», — пишет Джонатан Даллимор.
+Great Russian Revolution material here 
+#1917LIVE
+https://t.co/sforXg1qaH
+— Jonathon Dallimore (@jvdallimore) 
+February 24, 2017
+«Увлеклась проектом #1917LIVE. Мой внутренний фанат истории в восторге от русской революции в режиме реального времени», — отметила Мэри Боначчи.
+Officially obsessed with 
+#1917LIVE
+ My inner history nerd is loving following the Russian Revolution in "real time" with the 
+@RT_1917
+— Mary Bonacchi (@MBonacchs) 
+February 22, 2017
+«Проморолики и кадры проекта #1917LIVE заставляют переживать, как будто революция вот-вот должна произойти», — написала Лорен Гудрич.
+The promos and 
+#1917LIVE
+ footage is making me all jittery, as if the revolution is imminent. 
+@RT_1917
+#Russia
+https://t.co/SKltkKuv4U
+— Lauren Goodrich (@LEGoodrich) 
+February 17, 2017
+Даже те, кто не очень жалует телеканал RT, отмечают грандиозность проекта:
+«Не то чтобы мне действительно нравился RT, но проект #RetweetTheRevolution крут, даже несмотря на то, что скорее всего это пропаганда», — заявил пользователь antifascist.
+I REALLY dont want to like 
+@RT_com
+ ... but 
+#RetweetTheRevolution
+ is cool af, even tho im aware its probably propaganda. 
+#1917live
+@RT_1917
+https://t.co/COsmKnn2wD
+— (((antifascist))) (@alexhundert) 
+February 17, 2017
+Иностранцы о событиях 1917 года
+RT также спросил жителей американских штатов, что они знают о революции 1917 года. По словам некоторых собеседников телеканала, о тех событиях им известно лишь в общих чертах.
+«Знаю, что революция боролась с монархией и за права простых людей. Знаю, что до Сталина многие годы страной руководил Ленин. Возможно, мне известно несколько больше, но не могу ещё что-нибудь вспомнить», — рассказала 29-летняя Кэтрин Кристенсен из Лас-Вегаса.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-58b3edecc36188e1348b4774_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.02/58b3edecc36188e1348b4774.mp4", image:       "https://cdni.rt.com/russian/images/2017.02/article/58b3eec5c461885d308b4567.jpg", // stretching: 'fill',
+ // title:       "\u0420\u0435\u0442\u0432\u0438\u0442\x20\u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u0438\x3A\x20\u043F\u0440\u044F\u043C\u0430\u044F\x20\u0442\u0440\u0430\u043D\u0441\u043B\u044F\u0446\u0438\u044F\x20\u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\x20\u041B\u0435\u043D\u0438\u043D\u0430\x20\x28\x231917LIVE\x20\u043F\u0440\u043E\u043C\u043E\x29\x20", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/russia/article/362616-revolyuciya-istoriya-rossiya-proekt/video/58b3edecc36188e1348b4774" frameborder="0" allowfullscreen/></iframe></div>'), link: "/russia/article/362616-revolyuciya-istoriya-rossiya-proekt" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-58b3edecc36188e1348b4774_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Ретвит революции: прямая трансляция выступления Ленина (#1917LIVE промо)  
+«Октябрьская революция? Это в ней участвовали декабристы?» — попыталась вспомнить 19-летняя Дженна из Сан-Франциско.
+«Знаю, что революция произошла, когда большевики свергли царя и к власти пришёл Ленин», — говорит пенсионерка Мэрилин Криттенден из Аризоны.
+Некоторые демонстрировали более широкие познания, отмечая, однако, что система преподавания в американских школах не направлена на глубокое изучение иностранной истории.
+«Иногда комики или журналисты проводят опросы на улицах, интересуясь у людей их знаниями по ряду тем и получая широкий спектр ответов, которые зачастую демонстрируют не лучшую осведомлённость людей об их и зарубежной истории или правительстве. Это, конечно, часть нашего образования. В 9 и 10 классах (14—15 лет) нам преподают мировую историю, включая советско-российскую историю, но с точки зрения США», — сообщил RT 32-летний Томми из Лас-Вегаса.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-58b3ee6bc36188083a8b4741_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.02/58b3ee6bc36188083a8b4741.mp4", image:       "https://cdni.rt.com/russian/images/2017.02/article/58b3ef2cc461885d308b4572.jpg", // stretching: 'fill',
+ // title:       "\u0420\u0435\u0442\u0432\u0438\u0442\x20\u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u0438\x3A\x20\u0447\u0442\u043E,\x20\u0435\u0441\u043B\u0438\x20\u0431\u044B\x20Twitter\x20\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043B\x20100\x20\u043B\u0435\u0442\x20\u043D\u0430\u0437\u0430\u0434\x3F\x20\x28\x231917LIVE\x20\u043F\u0440\u043E\u043C\u043E\x29\x20", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/russia/article/362616-revolyuciya-istoriya-rossiya-proekt/video/58b3ee6bc36188083a8b4741" frameborder="0" allowfullscreen/></iframe></div>'), link: "/russia/article/362616-revolyuciya-istoriya-rossiya-proekt" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-58b3ee6bc36188083a8b4741_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Ретвит революции: что, если бы Twitter существовал 100 лет назад? (#1917LIVE промо)  
+По его словам, он помнит, что Ленин был лидером большевиков, которые свергли царя.
+«Они руководили (страной. — 
+RT
+) от имени простых людей, однако их форма правления, направленная на недопущение потери власти, привела к большой культурной потере и жертвам со стороны других хороших людей. Это расхожая то и дело возникающая проблема и у прочих народов», — добавил он.
+Более детально события русской революции смог воспроизвести пенсионер Кларенс Хенриксен.
+«Революция началась в октябре 1917 года в Санкт-Петербурге, когда большевики отобрали власть у царя и богачей во имя народа. Это движение распространилось по всей России. Это были очень тяжёлые времена для страны и всех её жителей, так как происходили масштабные перемены в обществе, бизнесе, собственности. Владимир Ленин был значительной личностью и могущественным лидером, который вернулся в Россию, чтобы вести революцию», — рассказал Хенриксен.
+Он также предположил, что большевики представляли интересы большинства людей в России, однако оговорился, что не вполне уверен в этом.

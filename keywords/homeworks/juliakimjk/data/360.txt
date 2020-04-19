@@ -1,0 +1,78 @@
+Одна из самых грандиозных хакерских атак продолжается. Со всего мира поступают новые сообщения о том, что серверы различных компаний подвергаются взлому. Одно из последних пришло от РЖД и сотового оператора МТС.
+«На IT-систему РЖД была произведена вирусная атака, вирус в настоящее время локализован, проводятся технические работы по его уничтожению и обновлению антивирусной защиты», — говорится в сообщении транспортной компании.
+Об успешном отражении кибернападения сообщили также в офисе МТС. «Атаки на МТС были ночью, мы их отразили», — заявил пресс-секретарь сотового оператора Дмитрий Солодовников.
+Ранее от взломов пострадали медучреждения в Великобритании, испанская телекоммуникационная компания Telefonica, американский почтовый гигант FedEx, несколько заводов Renault во Франции, сайт немецкой железной дороги, российский Сбербанк, операторы мобильной связи «МегаФон» и Yota, а также МВД и МЧС России.
+Разработчики антивируса Avast 
+сообщили
+ о 75 тыс. хакерских атак с использованием вируса WanaCrypt0r 2.0 в 99 странах. По данным компании, в первую очередь вирус распространяется в России, на Украине и на Тайване. В «Лаборатории Касперского» сообщили, что зафиксировали около 45 тысяч попыток хакерских атак в 74 странах, с наибольшим числом взломов в России.
+Чтобы наглядно показать масштаб проводимой атаки, издание The New York Times создало интерактивную карту, на которой отмечены места и темпы распространения вредоносной программы.
+Animated map of how tens of thousands of computers were infected with ransomware 
+https://t.co/voOHDugow7
+pic.twitter.com/BEFeauFF3U
+— The New York Times (@nytimes) 
+May 13, 2017
+«Русский след»
+Пока не удаётся установить, из какой именно страны производятся взломы и блокировка компьютеров. Не исключено, что орудует целая банда хакеров, члены которой находятся в разных точках мира. Тем временем британские СМИ уже выдвигают предположения о том, что в нападениях просматривается «русский след». 
+Russian-linked cyber gang Shadow Brokers blamed for NHS computer hack 
+https://t.co/CNjzSTFXuv
+pic.twitter.com/7LgPKRt1Oq
+— The Telegraph (@Telegraph) 
+May 12, 2017
+Издание The Telegraph 
+проводит
+ параллели между событиями в мире и действиями хакерской группы The Shadow Brokers. По версии издания, члены этой банды начали заражать компьютеры вирусом вскоре после ударов США по Сирии. 
+ Также по теме 
+ Атака без границ: организации в десятках стран пострадали от вируса-вымогателя WannaCry 
+ В пятницу по всему миру прошла волна хакерских атак с использованием программы ransomware WanaCrypt0r 2.0 (WannaCry). По данным... 
+По данным The Telegraph, на следующий день после ударов Соединённых Штатов группировка опубликовала предупреждение Дональду Трампу, осудив данное решение.
+А ещё спустя неделю, 14 апреля, The Shadow Brokers осуществила хакерскую атаку, применив программу, украденную у АНБ. Эта же программа, как предполагается, была использована и в последних атаках.
+«Некоторые эксперты считают, что время и последовательность событий играют важную роль и указывают на то, что у группировки The Shadow Brokers есть связи с российским правительством», — говорится в статье. При этом никаких доказательств этой версии не представлено и имена экспертов не названы.
+Технологии АНБ
+О том, что хакерская атака проводилась с использованием инструментов, разработанных Агентством национальной безопасности, сообщили сразу несколько источников. Бывший сотрудник спецслужб разоблачитель Эдвард Сноуден написал об этом в микроблоге Twitter.
+«Ого! Решение АНБ создавать инструменты атаки против американского программного обеспечения теперь угрожает жизням пациентов больниц», — написал Сноуден, прикрепив к публикации ссылку на статью издания Politico.
+Whoa: 
+@NSAGov
+ decision to build attack tools targeting US software now threatens the lives of hospital patients.  
+https://t.co/HXRV9uYOuU
+— Edward Snowden (@Snowden) 
+May 12, 2017
+Американский союз защиты гражданских свобод также указал на то, что у АНБ могла быть информация о том, что миллионы компьютеров по всему миру, использующие Microsoft, в перспективе могут быть взломаны с помощью разработанных американской спецслужбой программ. 
+«Это будет вызывать озабоченность, если выяснится, что АНБ знало об уязвимых местах Microsoft, но ждало, чтобы сообщить об этом. Конгресс может и должен это исправить», — говорится в сообщении союза, опубликованном в Twitter.
+It would be deeply troubling if the NSA knew Microsoft was vulnerable in this way but waited to disclose. Congress can and should fix this. 
+https://t.co/jdAr6kkB6N
+— ACLU National (@ACLU) 
+May 12, 2017
+На сайте Американского союза защиты гражданских свобод 
+приводится
+ мнение юриста организации Патрика Туми, который говорит о том, что в таких ситуациях конгресс, зная о разработках АНБ, «должен принять закон, который обяжет правительство вовремя раскрывать компаниям их уязвимые места». Только таким образом, по его оценке, можно обеспечить всеобщую цифровую безопасность.
+«Реальное оружие»
+Создатель зашифрованного интернет-сервера UNSEEN Крис Китце прокомментировал текущую ситуацию, назвав подобные программы настоящим оружием.
+«Произошло следующее: вредоносная программа, разработанная АНБ, была похищена и теперь используется против обычных людей. Это очень серьёзно. Мы, безусловно, имеем здесь дело с реальным оружием», — рассказал эксперт.
+По его мнению, главная проблема в том, что «это оружие теперь попало к преступным группировкам и используется против обычных людей, а также против компаний и правительств по всему миру».
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-5916ef33c36188c5018b477b_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.05/5916ef33c36188c5018b477b.mp4", image:       "https://cdni.rt.com/russian/images/2017.05/article/5916f010c46188bc788b4638.jpg", // stretching: 'fill',
+ // title:       "\u042D\u043A\u0441\u043F\u0435\u0440\u0442\x3A\x20\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u043D\u0430\u044F\x20\u0445\u0430\u043A\u0435\u0440\u0430\u043C\u0438\x20\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\x20\u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442\x20\u0443\u0433\u0440\u043E\u0437\u0443\x20\u0434\u043B\u044F\x20\u0432\u0441\u0435\u0433\u043E\x20\u043C\u0438\u0440\u0430\x20", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/world/article/389177-rossiiskie-hakery-vzlom-virus-anb/video/5916ef33c36188c5018b477b" frameborder="0" allowfullscreen/></iframe></div>'), link: "/world/article/389177-rossiiskie-hakery-vzlom-virus-anb" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-5916ef33c36188c5018b477b_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Эксперт: Использованная хакерами программа представляет угрозу для всего мира  
+Китце также дал несколько рекомендаций обычным пользователям: что делать, чтобы избежать или минимизировать последствия хакерских атак. «Во-первых, не нажимайте на неизвестные вам ссылки. Во-вторых, сделайте резервную копию своих данных. Если вас взломают, вы просто их восстановите и будете жить дальше», — заключил он.
+Знакомый сценарий
+Как считает вице-председатель Либертарианской партии США Арвин Вора, Белый дом и его спецслужбы в очередной раз допустили ошибку, позволив опасному оружию оказаться не в тех руках.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-5916f408c36188d6018b4972_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.05/5916f408c36188d6018b4972.mp4", image:       "https://cdni.rt.com/russian/images/2017.05/article/5916f413c36188c3018b48ce.jpg", // stretching: 'fill',
+ // title:       "\u042D\u043A\u0441\u043F\u0435\u0440\u0442\x20\u043E\x20\u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0435\u0439\x20\u043A\u0438\u0431\u0435\u0440\u0430\u0442\u0430\u043A\u0435\x3A\x20\u0425\u0430\u043A\u0435\u0440\u0441\u043A\u0438\u0435\x20\u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B\x20\u0410\u041D\u0411\x20\u043C\u043E\u0436\u043D\u043E\x20\u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C\x20\u0442\u043E\u043B\u044C\u043A\u043E\x20\u0432\u043E\x20\u0432\u0440", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/world/article/389177-rossiiskie-hakery-vzlom-virus-anb/video/5916f408c36188d6018b4972" frameborder="0" allowfullscreen/></iframe></div>'), link: "/world/article/389177-rossiiskie-hakery-vzlom-virus-anb" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-5916f408c36188d6018b4972_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Эксперт о крупнейшей кибератаке: Хакерские инструменты АНБ можно использовать только во вр 
+«Американское правительство каждый раз действует как по шаблону: оно тратит уйму времени на то, чтобы создать что-то разрушительное. Хакерские инструменты АНБ невозможно использовать во благо — только во вред. Затем, вполне ожидаемо, ситуация выходит из-под контроля», — отмечает политик.
+При этом он проводит аналогию между использованием разрушительных IT-технологий и передачей военных знаний. По его мнению, именно по такому сценарию американские милитаристы передали ценный опыт людям, которые позже сформировали террористические организации, и теперь эти знания применяются против граждан США.
+«То же самое происходило ранее, когда США обучали людей, многие из которых впоследствии сформировали группировку «Аль-Каида»*. Сейчас мы имеем дело с аналогичной ситуацией, когда опыт и технологии используются не так, как было задумано. То есть каждый раз мы видим признаки всё более масштабной проблемы», — подчеркивает эксперт.
+* «Аль-Каида» — террористическая группировка, запрещённая на территории России.

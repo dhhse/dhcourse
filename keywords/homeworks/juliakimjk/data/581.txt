@@ -1,0 +1,50 @@
+«Переписывался с Зобниным. Он расстроен»
+Первым к журналистам вышел Дмитрий Комбаров, пропустивший товарищеский матч с Венгрией из-за травмы. Спартаковец заверил, что полностью восстановился от повреждения и готов сыграть с Чили.
+— Матч с венграми проводили под нагрузками. В каком режиме тренировались сегодня?
+— Второй день после игры тоже считался восстановительным. Больше занимались тактикой. Выполняли лёгкие упражнения.
+— До начала Кубка конфедераций остаётся более недели. Станислав Черчесов не говорил, ожидаются ли ещё серьёзные нагрузки?
+— Сейчас мы готовимся непосредственно к игре с чилийцами, а затем у нас будет неделя подготовки непосредственно к турниру. 
+— Вы готовитесь в достаточно закрытом режиме. Может, стоит пускать болельщиков на трибуны во время тренировок?
+— По-моему, занятия сборной достаточно открытые. Вы сегодня присутствовали на трибунах и видели первые 15 минут тренировки. Это стандартная практика. Не против того, чтобы стать ближе к болельщикам, чтобы они могли наблюдать за тем, как мы работаем.
+— С Чили вы не сыграли из-за повреждения. Как сейчас себя чувствуете?
+— Слава богу, всё нормально. У меня был небольшой спазм, и тренерский штаб решил поберечь, чтобы не довести до серьёзной травмы. Сейчас уже полностью восстановился.
+— Недавно Георгий Джикия сказал, что для России приемлема только победа на Кубке конфедераций. Есть ли у вас уверенность, что такого результата удастся достичь?
+— Согласен с Георгием. Задача стоит — выиграть. Если не выполним её, будет плохо. Черчесов вселяет в нас уверенность, настраивает только на победу.
+— С чем связываете тот факт, что футболисты часто получают травмы в сборной? Это сглаз или последствия тяжёлого сезона?
+— От этого никто не застрахован. Дело не в том, что кто-то недотренировался или перетренировался. Просто так вышло, что Зоба и Дзюба получили травмы. Это чистый случай.
+— Созванивались с Зобниным? Как он себя чувствует?
+— Списывался. Конечно, Рома расстроен. Пожелал ему здоровья, сказал, что ждём его скорейшего возвращения в строй.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-59381c1bc361882f758b4709_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.06/59381c1bc361882f758b4709.mp4", image:       "https://cdni.rt.com/russian/images/2017.06/article/59381c2dc36188f1748b46e2.jpg", // stretching: 'fill',
+ // title:       "\u041A\u043E\u043C\u0431\u0430\u0440\u043E\u0432\x3A\x20\u043E\u0442\x20\u0442\u0440\u0430\u0432\u043C\x20\u043D\u0438\u043A\u0442\u043E\x20\u043D\u0435\x20\u043D\u0435\x20\u0437\u0430\u0441\u0442\u0440\u0430\u0445\u043E\u0432\u0430\u043D", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/sport/article/397535-kombarov-vasin-sbornaya-rossiya-trenirovka/video/59381c1bc361882f758b4709" frameborder="0" allowfullscreen/></iframe></div>'), link: "/sport/article/397535-kombarov-vasin-sbornaya-rossiya-trenirovka" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-59381c1bc361882f758b4709_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Комбаров: от травм никто не не застрахован 
+«Медведь? Венгр имел в виду скорее Джикию»
+Следующим с журналистами пообщался Виктор Васин. Защитник ЦСКА отметил, что не боится чилийских звёзд, и посмеялся над сравнением себя с медведем.
+— В сборной Чили играют настоящие звёзды — Алексис Санчес, Артуро Видаль. Есть ли в нашей команде сопоставимые по уровню футболисты?
+— Не такие раскрученные, но перспективные — есть. В будущем, возможно, они заиграют на таком же уровне. Санчес и Видаль выступают в топ-клубах Европы, которые сложно сопоставить с командами нашего чемпионата.
+— Вам как защитнику будет тяжело действовать против топ-футболистов. Придётся прыгнуть выше головы?
+— Чтобы играть против них, надо не то чтобы прыгать выше головы — просто организованно сыграть в обороне. Компактно, чтобы не дать им пространства. Только командной игрой им можно противостоять.
+— Джикия недавно сказал, что мы должны побеждать на Кубке конфедераций…
+— Каждый футболист нашей сборной верит, что мы можем выиграть Кубок конфедераций. Все одинаково хотят этого. Станислав Саламович настраивает нас на победу.
+— Игрок сборной Венгрии Мартон Эппель сравнил вас с медведем. Как отреагировали на это?
+— Отнёсся с юмором. Вообще не думал сначала, что он говорил обо мне. Предполагал, Эппель имел в виду Джикию из-за его бороды.
+— Уже успели сыграться с партнёрами по обороне — Кудряшовым и Джикией?
+— Взаимопонимание в обороне есть, но всё равно требуется время, чтобы сыграться. Матч с Венгрией показал — прогресс есть. С каждой новой встречей будем только прибавлять. Мы больше наигрываем схему в три центральных защитника, нежели в два.
+— Тренерский штаб уже разбирал игру сборной Чили?
+— Черчесов на матч с Чили пока указаний не давал, у нас есть ещё два дня до матча. Вечером будет теоретическое занятие конкретно по сопернику.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-59381c81c46188cb318b45bd_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2017.06/59381c81c46188cb318b45bd.mp4", image:       "https://cdni.rt.com/russian/images/2017.06/article/59381c90c36188ed748b46ec.jpg", // stretching: 'fill',
+ // title:       "\u0412\u0430\u0441\u0438\u043D\x3A\x20\u043A\u0430\u0436\u0434\u044B\u0439\x20\u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\x20\u043D\u0430\u0448\u0435\u0439\x20\u0441\u0431\u043E\u0440\u043D\u043E\u0439\x20\u0432\u0435\u0440\u0438\u0442,\x20\u0447\u0442\u043E\x20\u043C\u044B\x20\u043C\u043E\u0436\u0435\u043C\x20\u0432\u044B\u0438\u0433\u0440\u0430\u0442\u044C", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/sport/article/397535-kombarov-vasin-sbornaya-rossiya-trenirovka/video/59381c81c46188cb318b45bd" frameborder="0" allowfullscreen/></iframe></div>'), link: "/sport/article/397535-kombarov-vasin-sbornaya-rossiya-trenirovka" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-59381c81c46188cb318b45bd_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Васин: каждый футболист нашей сборной верит, что мы можем выиграть 

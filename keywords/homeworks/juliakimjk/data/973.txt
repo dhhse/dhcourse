@@ -1,0 +1,61 @@
+Александра Степанова и Иван Букин должны были выступать на Олимпиаде в статусе второй пары России в танцах на льду. На прошедшем чемпионате Европы в Москве они 
+завоевали бронзовые медали
+, уступив своим соотечественникам Екатерине Бобровой и Фёдору Соловьёву, а также победителям турнира — французам Габриэлле Пападакис и Гийому Сизерону.
+Спортсмены готовились к поездке в Пхёнчхан, когда МОК объявил, что 
+Букин не получил приглашения
+ на Игры. Также от Олимпиады была отстранена Екатерина Столбова, выступающая в соревнованиях спортивных пар вместе с Фёдором Климовым.
+Ирина Жук и Александр Свинин прокомментировали решение МОК о недопуске своего подопечного к Играм.
+«Это останется для нас чёрным днём календаря»
+Ирина Жук
+: Мы узнали это в Саранске, когда приехали на юниорский чемпионат. Мы абсолютно не были к этому готовы. Это останется для нас чёрным днём календаря. На чемпионате Европы Букин и Степанова завоевали бронзовые медали, что стало для них большим успехом. Мы были на эмоциональном подъёме, когда узнали эту новость.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-5a6ae33d183561644a8b4567_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2018.01/5a6ae33d183561644a8b4567.mp4", image:       "https://cdni.rt.com/russian/images/2018.01/article/5a6ae1ee183561dc498b4567.jpg", // stretching: 'fill',
+ // title:       "\u041C\u044B\x20\u043D\u0435\x20\u043C\u043E\u0433\u043B\u0438\x20\u043F\u043E\u0434\u0443\u043C\u0430\u0442\u044C,\x20\u0447\u0442\u043E\x20\u0442\u0430\u043A\u043E\u0435\x20\u043C\u043E\u0436\u0435\u0442\x20\u0441\u043B\u0443\u0447\u0438\u0442\u044C\u0441\u044F\x20\u0441\x20\u043D\u0430\u0448\u0438\u043C\u0438\x20\u0441\u043F\u043E\u0440\u0442\u0441\u043C\u0435\u043D\u0430\u043C\u0438", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/sport/article/474456-marinin-mok-rossiya-decimaciya/video/5a6ae33d183561644a8b4567" frameborder="0" allowfullscreen/></iframe></div>'), link: "/sport/article/474456-marinin-mok-rossiya-decimaciya" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-5a6ae33d183561644a8b4567_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Мы не могли подумать, что такое может случиться с нашими спортсменами 
+Александр Свинин
+: Мы получили эту информацию за час до того, как она должна была появиться в СМИ. Ребята отдыхали, но нам пришлось позвонить им, чтобы они узнали это не из интернета. Они оба были шокированы и не могли понять, почему это произошло. Как и мы.
+— Решение не допускать Букина к Играм кажется очень странным...
+Александр Свинин
+: Для нас это необъяснимо. Он не был замешан в допинговых скандалах, не принимал участия в Олимпиаде в Сочи. Мы не видим причин для подобных санкций.
+— Также МОК не допустил к Олимпиаде Ксению Столбову. Одним своим действием Россию лишили сразу двух коллективов.
+Александр Свинин
+: Это сделано специально. Таким образом мы потеряли по одному представителю в парном катании и танцах на льду.
+— Как вы оценивали перспективы Букина и Степановой в преддверии Олимпиады?
+Ирина Жук
+: Мы должны были ехать туда в качестве второй пары страны. Они мечтали попасть на Олимпиаду и сделали бы всё возможное, чтобы показать там свой максимум. Сложно говорить относительно их медальных перспектив. Мы всегда настраивали их одинаково: катайтесь хорошо и вас оценят. Но мы думаем, что они смогли бы бороться за награды.
+— Нет ощущения, что МОК намеренно 
+не приглашает на Олимпиаду
+ российских спортсменов, которые способны претендовать на победу в турнире?
+Ирина Жук
+: Такие ощущения присутствуют. В голову приходят самые различные версии, почему комитет поступил именно так.
+Александр Свинин
+: В последнее время у Букина и Степановой наметился солидный прогресс. Возможно, это послужило причиной.
+— Не испытываете ли зависти по отношению к тем спортсменам, которые поедут на Игры вместо Букина и Степановой?
+Ирина Жук
+: Ничего подобного нет. Мы никогда никому не желаем зла.
+Александр Свинин
+: В первую очередь, сами атлеты ни в чём не виноваты. Нет ничего плохого, если кто-то поедет на Игры из-за того, что с другими случилось такое несчастье.
+
+ jwplayer.key="kESrsgULvYO7r2MfUelqj3vs+2i8JdQBqjGNmA==";
+ jwplayer("js-mediaplayer-5a6ae3fd370f2c8c238b45c7_2").setup({ advertising: (function() {
+ if(window.location.pathname.indexOf('/preview/Article/') + 1 > 0) { return {}; }
+   return { client: "vast", tag: 'https://an.yandex.ru/meta/237738?imp-id=1&charset=UTF-8&target-ref=' + encodeURIComponent(location.href) + '&page-ref=' + encodeURIComponent(location.href) + '&rnd=' + Date.now(), } })(), file:        "https://cdnv.rt.com/russian/video/2018.01/5a6ae3fd370f2c8c238b45c7.mp4", image:       "https://cdni.rt.com/russian/images/2018.01/article/5a6ae1e3370f2cb4238b45b0.jpg", // stretching: 'fill',
+ // title:       "\u041D\u0430\u043C\x20\u0443\u0434\u0430\u043B\u043E\u0441\u044C\x20\u043D\u0430\u0439\u0442\u0438\x20\u043D\u0443\u0436\u043D\u044B\u0435\x20\u0441\u043B\u043E\u0432\u0430\x20\u0438\x20\u043F\u0440\u0438\u0432\u0435\u0441\u0442\u0438\x20\u0421\u0442\u0435\u043F\u0430\u043D\u043E\u0432\u0443\x20\u0438\x20\u0411\u0443\u043A\u0438\u043D\u0430\x20\u0432\x20\u043F\u043E\u0440\u044F\u0434\u043E\u043A", aspectratio: "16:9", skin: { name: "five", active: "#77bd1e", background: "rgba(0, 0, 0, 0.5)", inactive: "#FFFFFF"
+ }, width:       "100%", startparam:  "start", ga: {}, sharing: { heading : "Поделиться Видео", code: encodeURI('<div style="position: relative;padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="' + location.protocol + '//' + location.host + '/sport/article/474456-marinin-mok-rossiya-decimaciya/video/5a6ae3fd370f2c8c238b45c7" frameborder="0" allowfullscreen/></iframe></div>'), link: "/sport/article/474456-marinin-mok-rossiya-decimaciya" }, events: { onPlay: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href); } var playingVideoId = 'js-mediaplayer-5a6ae3fd370f2c8c238b45c7_2'; // id текущего плеера pauseMedia(playingVideoId); //запускаем функцию остановки всех играющих плееров кроме этого Код функции ниже по коду }, onPause: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href); } }, onComplete: function(){ if(ga) { ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href); } } } });  function pauseMedia(playingMediaId) { var players = document.querySelectorAll('.jwplayer, object');
+ for (var i = 0, max = players.length; i < max; i++) { var currentMediaId = players[i].id; console.log(0, jwplayer(players[i]).getState().toLowerCase()); if( jwplayer(players[i]).getState().toLowerCase() === "playing" || jwplayer(players[i]).getState().toLowerCase() === "buffering" ) { if(currentMediaId != playingMediaId){ jwplayer(players[i]).play(false); //or jwplayer(this).stop(); } } } }
+
+ Нам удалось найти нужные слова и привести Степанову и Букина в порядок 
+— Как вы поддерживали спортсменов в этот трудный момент?
+Ирина Жук
+: Мы тренируем их на протяжении 11 лет. Они нам как дети. Между нами существует определённая связь. Признаюсь, была поражена поведением Степановой. Она оказалась морально сильнее меня — в тот день Александра поддерживала меня, а не наоборот. Букину было сложнее, так как именно его фамилия значилась в этом списке. Учитывая то, каким позитивным человеком он является... Но Александру удалось найти слова и привести нас в порядок.
+Александр Свинин
+: После чемпионата Европы они уже видели себя в Южной Корее. Представляли, как находятся в олимпийской деревне. Для них эта Олимпиада должны была стать первой в карьере. Потерять такое было тяжело. Мы призвали их не расстраиваться. После Игр будет чемпионат мира, а потом начнётся подготовка к новой Олимпиаде. Жизнь продолжается.
+— Будут ли спортсмены продолжать подготовку к турниру, на случай возможной отмены решения МОК?
+Александр Свинин
+: Конечно. Они отправятся в Японию с олимпийской командой. Подготовка к Играм продолжается согласно плану.
