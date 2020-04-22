@@ -46,7 +46,7 @@
   * [Тетрадка jupyter для практического занятия](https://github.com/dhhse/dhcourse/blob/gh-pages/keywords/Keywords_DH_April_2020.ipynb)
 * Автоматическое извлечение тематики текста. Тематическое моделирование
   * [Первое видео про тематическое моделирование](https://youtu.be/Pj8eMukaWh8)
-  * [Презентация к видео]()
+  * [Презентация к видео](https://github.com/dhhse/dhcourse/blob/gh-pages/topic_modeling/%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2022%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F%202020%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%20%D0%A6%D0%9C%D0%93%D0%9D.pdf)
 * Коллокации (или "n-граммы на стероидах")
 * NER/Fact Extraction и его применение в Digital Humanities
 * Попытки автоматизированного анализа сюжета: возможен ли авто-Пропп и для каких жанров?
