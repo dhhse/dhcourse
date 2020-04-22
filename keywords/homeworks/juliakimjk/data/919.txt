@@ -1,0 +1,1 @@
+body{min-height:500px}.playbuzz-bp-full-screen{z-index: 2147483647; left: 0; top: 0; background: #fff; width: 100%; height: 100%; position: fixed !important}.playbuzz-bp-full-screen .pb_feed_placeholder_container {display: none !important}.playbuzz-bp-full-screen .pb_feed_iframe {height: 100% !important; position: fixed}
